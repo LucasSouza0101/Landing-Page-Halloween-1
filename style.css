@@ -173,7 +173,7 @@ h2 {
   font-size: 15px;
   line-height: 22px;
   color: #303056;
-  background-image: url(/assets/primary-button.svg);
+  background-image: url("./assets/primary-button.svg");
   background-color: transparent;
   border: none;
   padding: 29px 43px;
@@ -216,7 +216,7 @@ h2 {
   font-size: 15px;
   line-height: 22px;
   color: #ffffff;
-  background-image: url(/assets/secondary-button.svg);
+  background-image: url("./assets/secondary-button.svg");
   background-size: cover;
   background-color: transparent;
   border: none;
