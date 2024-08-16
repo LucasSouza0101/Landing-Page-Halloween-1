@@ -25,6 +25,10 @@ header {
   padding: 17px 90px;
 }
 
+.logo{
+  width: 10vw;
+}
+
 nav {
   display: flex;
   align-items: center;
